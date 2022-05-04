@@ -2,6 +2,8 @@
 #   made by         : sudhir swain
 #   session         : 2021-22
 #   roll no         : 192311
+#   college         : GITA,Autonomous,college,Bhubneswer
+#   
 
 import mysql.connector
 from datetime import date
